@@ -53,6 +53,7 @@ Download the debian package from latest [release](https://github.com/lakinduakas
 ```bash
 # For ubuntu only
 sudo add-apt-repository ppa:lakinduakash/lwh
+sudo apt update
 sudo apt install linux-wifi-hotspot
 
 ```
